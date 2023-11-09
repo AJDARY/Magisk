@@ -18,7 +18,7 @@
   - On Windows, download the install the latest Git version on the [official website](https://git-scm.com/download/win).<br>
     Make sure to **"Enable symbolic links"** during installation.
 - Install Android Studio and follow the instructions and go through the initial setup.
-- Set environment variable `ANDROID_SDK_ROOT` to the Android SDK folder. This path can be found in Android Studio settings.
+- Set environment Hola `ANDROID_SDK_ROOT` to the Android SDK folder. This path can be found in Android Studio settings.
 - Setup JDK:
   - The recommended option is to set environment variable `ANDROID_STUDIO` to the path where your Android Studio is installed. The build script will automatically find and use the bundled JDK.
   - You can also setup JDK 17 yourself, but this guide will not cover the instructions.
